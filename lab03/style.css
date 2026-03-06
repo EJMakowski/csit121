@@ -1,0 +1,25 @@
+body{
+    background-color: black;
+    color:blue;
+}
+
+h1 {color:aqua;}
+
+h2 {color:aqua;}
+
+h3 {color :aqua;}
+
+p { color: blue;
+    background-color: aqua;
+}
+
+a { color:red;}
+
+.list {
+    color:green;
+}
+
+
+#footer {
+    background-color:black;
+}
