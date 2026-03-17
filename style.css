@@ -1,0 +1,48 @@
+body{
+    background-color: black;
+    color:blue;
+}
+
+h1 {color:aqua;}
+
+h2 {color:aqua;}
+
+h3 {color :aqua;}
+
+p { color: blue;
+    background-color: aqua;
+}
+
+a { color:red;}
+
+.list {
+    color:green;
+}
+
+
+#footer {
+    background-color:black;
+}
+
+main {
+    display:flex;
+    justify-content: center;
+}
+
+
+@media (max-width: 600px){
+    main, nav {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+}
+
+@media (min-width: 600px){
+    main, nav {
+        display: flex;
+    }
+}
+
+#two {width: 3000px;}
+
