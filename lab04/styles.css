@@ -17,12 +17,12 @@ p{
     background-color: black;
 }
 
-a:hover {
-    color:red;
-}
-
 a:visited{
     color:pink;
+}
+
+a:hover {
+    color:red;
 }
 
 a:link{
